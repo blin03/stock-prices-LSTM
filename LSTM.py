@@ -4,7 +4,6 @@ os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 import tensorflow as tf
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
 import datetime as dt
 from datetime import datetime
 
